@@ -10,7 +10,7 @@ app.on('ready', () => {
         webPreferences: {
             nodeIntegration: true
         },
-        title: 'loop supreme'
+        title: 'mainwindow'
     })
 
     mainWindow.loadFile('renderer.html')
