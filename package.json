@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.1.0",
+    "electron": "^9.4.0",
     "jquery": "^3.4.1",
     "monaco-loader": "^1.0.0"
   }
